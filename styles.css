@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    font-family: math;
+    background-color: purple;
+    color: yellow;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+main{
+    flex-grow: 1;
+    background-color: pink;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
